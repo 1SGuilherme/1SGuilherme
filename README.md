@@ -10,7 +10,6 @@ Técnologo em Banco de Dados 🧑‍💻 (2/6) </br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1SGuilherme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
 </div>
-
 ## Linguagens que eu utilizo
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
