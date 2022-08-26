@@ -3,6 +3,7 @@ São José dos Campos - Sp - Brasil 🏡</br>
 Técnico em Administração 👨‍🎓 </br>
 Técnologo em Banco de Dados 🧑‍💻 (2/6) </br>
 
+
 ## Estatísticas
 <div align="left">
   <a href="https://github.com/1SGuilherme">
