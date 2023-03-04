@@ -1,7 +1,7 @@
 ## Oi!! Eu sou o Guilherme
 São José dos Campos - Sp - Brasil 🏡</br>
 Técnico em Administração 👨‍🎓 </br>
-Técnologo em Banco de Dados 🧑‍💻 (2/6) </br>
+Técnologo em Banco de Dados 🧑‍💻 (3/6) </br>
 
 
 ## Estatísticas
